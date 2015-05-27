@@ -9,6 +9,7 @@ http://gtfs.geops.ch can be used to retrieve the data, we did not try.
 Here are some screen captures to see it fully work. 
 
 
-![alt tag](https://raw.github.com/Rimbaud13/Isochrone_TL/blob/master/data/images/Isochrone1.jpg)
+![alt tag](https://github.com/Rimbaud13/Isochrone_TL/blob/master/data/images/Isochrone1.jpg)
 
-![alt tag](https://raw.github.com/Rimbaud13/Isochrone_TL/blob/master/data/images/Isochrone2.jpg)
+
+![alt tag](https://github.com/Rimbaud13/Isochrone_TL/blob/master/data/images/Isochrone2.jpg)
